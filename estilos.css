@@ -1,0 +1,64 @@
+*{
+    padding:0;
+    margin:0;
+}
+.menu li{
+   display: inline-block
+    
+}
+*{
+    text-align: center;
+}
+.primera h3,h2{
+    font-family: sans-serif
+}
+
+
+.primera{
+    padding:100px;
+    margin:0;
+    clear:both
+    
+}
+p{
+    font-size:17px;
+    font-weight: ligher;
+    font-family: Arial;
+}
+.menu{
+    font-family: Arial;
+}
+#parrafo3{
+    padding:10px;
+   
+}
+#imagen{
+     padding:10px;
+     padding-left:95px;
+      
+}
+h3{
+    font-size:25px;
+}
+p{
+    background:#f0ffff
+}
+
+
+
+.seccion{
+    margin: 400px;
+    border: 1px solid black;
+    margin-top:5px;
+    margin-bottom:100px;
+    
+}
+body{
+    background-image: url(images/soldados.png);
+    
+
+}
+.seccion{
+    background-color:#f0f8ff 
+    ;
+}
