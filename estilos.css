@@ -34,8 +34,8 @@ p{
 }
 #imagen{
      padding:10px;
-     padding-left:95px;
-      
+     padding-left:80px;
+     
 }
 h3{
     font-size:25px;
@@ -47,7 +47,7 @@ p{
 
 
 .seccion{
-    margin: 300px;
+    margin: 350px;
     border: 1px solid black;
     margin-top:5px;
     margin-bottom:100px;
