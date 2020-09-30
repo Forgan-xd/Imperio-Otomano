@@ -62,3 +62,23 @@ body{
     background-color:#f0f8ff 
     ;
 }
+@media screen and (max-width: 480px){
+    #encabezado{
+        height: auto;
+    }
+    #contenido{
+        width: auto;
+    }
+    #barra_lateral{
+        display:none;
+    }
+}
+body {
+    width: 100%;
+    max-width: 2024px;
+
+}
+.imagenes {
+    max-width: 94%;
+    height: auto;
+}
