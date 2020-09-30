@@ -57,7 +57,7 @@ body{
     background-color:#f0f8ff 
     ;
 }
-@media screen and (max-width: 280px){
+@media screen and (max-width: 800px){
     .cabecera{
         height: auto;
     }
