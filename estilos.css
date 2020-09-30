@@ -14,12 +14,8 @@
 }
 
 
-.primera{
-    padding:100px;
-    margin:0;
-    clear:both
     
-}
+
 p{
     font-size:17px;
     font-weight: ligher;
@@ -32,11 +28,10 @@ p{
     padding:10px;
    
 }
-#imagen{
-     padding:10px;
-     padding-left:81px;
+
+    
      
-}
+
 h3{
     font-size:25px;
 }
@@ -62,16 +57,15 @@ body{
     background-color:#f0f8ff 
     ;
 }
-@media screen and (max-width: 480px){
-    #encabezado{
+@media screen and (max-width: 280px){
+    .cabecera{
         height: auto;
     }
-    #contenido{
+     body{
         width: auto;
     }
-    #barra_lateral{
-        display:none;
-    }
+   
+    
 }
 body {
     width: 100%;
@@ -79,6 +73,6 @@ body {
 
 }
 .imagenes {
-    max-width: 94%;
+    max-width: 84%;
     height: auto;
 }
