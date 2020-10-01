@@ -25,7 +25,7 @@ p{
     font-family: Arial;
 }
 #parrafo3{
-    padding:10px;
+    padding:5%;
    
 }
 
@@ -42,27 +42,25 @@ p{
 
 
 .seccion{
-    margin: 350px;
+    margin: 25%;
     border: 1px solid black;
-    margin-top:5px;
-    margin-bottom:100px;
-    
+    margin-top:5%;
+    margin-bottom:10%;
+    background-color:#f0f8ff;
+    max-width: 900px;
 }
 body{
     background-image: url(images/soldados.png);
-    
 
 }
-.seccion{
-    background-color:#f0f8ff 
-    ;
-}
-
-
-
-
 .menu{
  text-align:center;
 }
+article{
+   width: 100%;
+}
 
-    
+.imagenes{
+    max-width: 70%;
+    min-width: 30%;
+}
