@@ -66,3 +66,17 @@ article{
     max-height: 60%;
     min-height: 50%;
 } 
+#redessocialiticas{
+    display: none;
+}
+.redestelefono{
+    background-color: #73aeff;
+    border:black solid 1px;
+    margin:40%;
+    margin-bottom:0;
+    margin-top: 0;
+    text-decoration-color: white;
+    cursor: pointer;
+    color: black;
+   
+}
